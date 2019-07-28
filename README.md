@@ -1,29 +1,27 @@
-# Foobar
+# tesis_fuente:
 
-Foobar is a Python library for dealing with word pluralization.
+tesis_fuente es el repositorio que contiene el código fuente del Proyecto de Grado: "Estudio y Evaluación de la Tecnología LoRaWAN" el cual funge como requisito para la obtención de mi título de pre-grado en Ingeniería de Telecomunicaciones. 
 
-## Installation
+## Contenido del repositorio:
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Este repositorio contiene el código fuente de un proyecto que evalúa la tecnología LoRaWAN mediante la implementación de ciertas funcionalidades del protocolo sobre el Feather M0 LoRa de Adafruit. 
 
-```bash
-pip install foobar
-```
+Lista de archivos que conforman el proyecto:
+-
+-
+-
+-
 
-## Usage
+## Requisitos para el uso del proyecto: 
 
-```python
-import foobar
+-
+-
+-
+-
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
+## Configuración básica para el uso del proyecto: 
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+1.
+2.
+3.
+4.
