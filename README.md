@@ -25,5 +25,3 @@ Lista de archivos que conforman el proyecto:
 2.
 3.
 4.
-
-This is a Git Test from VSC. 
